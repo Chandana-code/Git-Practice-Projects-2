@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 How you wrote your exam ?
 
 I passed
-=======
-How you wrote the exam?
 
-I failed
->>>>>>> sub-branch
